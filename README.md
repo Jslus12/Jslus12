@@ -14,6 +14,7 @@ Css       |
           
 ## Redes sociais       
     Abaixo, deixarei minhas redes sociais para que possa entrar em contato ou acompanhar meu progresso.
+![imagemandando](hollow-knight-knight.gif)
 <div> 
   <a href="https://instagram.com/joao.delbianco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/no.109216" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -22,6 +23,5 @@ Css       |
   
 </div>
     Isso é tudo - João
----
 
 ![Cavaleiro](HollowFinal.gif)
