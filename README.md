@@ -1,7 +1,6 @@
-## Hi there 👋
+## Salve, eu sou João Lucas 👋
 
-<!--
-**Jslus12/Jslus12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 Here are some ideas to get you started:
 
