@@ -1,14 +1,15 @@
 # Salve, eu sou João Lucas 👋
 ## Quem eu sou?
 Atualmente eu sou um jovem programador (estudante) que busca entrar nesse mercado de programação. Em minha jornada busco me aperfeiçoar mais e mais, colecionando conhecimento e colocando-os em prática, então, bem vindo ao meu Github.
-### Tecnologias
-<div>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /><i class="devicon-css3-plain coloridos">>/i>
-    </div>      
+##
+## Aprendizado
+Estou estudando atualmente na faculdade Unicesumar - Londrina/Pr, e utilizo como recurso o VSCode (para programar) e o Github para postar meus repositórios, atualmente, sigo aprendendo;
+Linguagens| 
+--------- | 
+C         | 
+Java      | 
+Html5     |
+Css       |
           
           
 
