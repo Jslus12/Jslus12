@@ -1,7 +1,7 @@
 ## Salve, eu sou João Lucas 👋
 
 ## inserir imagem depois
-![Pikachu](pikachu.gif)
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=175992297934192776" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
 
 
 Here are some ideas to get you started:
