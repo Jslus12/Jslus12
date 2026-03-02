@@ -1,6 +1,12 @@
 ## Salve, eu sou João Lucas 👋
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+## inserir imagem depois
+
+<div>
+    <a href="https://beacons.ai/Jslus12">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jslus12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langes/?username=Jslus12&layout=compact&langs_count=16&theme=dark"/>
+    </div>
 
 Here are some ideas to get you started:
 
