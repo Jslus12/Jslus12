@@ -17,6 +17,7 @@ Css       |
           
 ## Redes sociais       
     Abaixo, deixarei minhas redes sociais para que possa entrar em contato ou acompanhar meu progresso.
+![FInal](HollowFinal.gif)
 ![Linha divisória](Hr.webp)
 <div> 
   <a href="https://instagram.com/joao.delbianco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,6 +27,7 @@ Css       |
   
 </div>
 
-![FInal](HollowFinal.gif)
+# Repositórios:
+
 
 
