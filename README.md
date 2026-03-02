@@ -27,4 +27,4 @@ Css       |
 </div>
 
 ![Linha divisória](Hr.webp)
-![Cavaleiro](HollowFinal.gif)
+![final](HollowFinal.gif=100x50)
