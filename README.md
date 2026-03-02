@@ -1,7 +1,7 @@
 ## Salve, eu sou João Lucas 👋
 
 ## inserir imagem depois
-! [Pikachu](pikachu.gif)
+![Pikachu](pikachu.gif)
 
 
 Here are some ideas to get you started:
