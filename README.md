@@ -1,5 +1,6 @@
 # Salve, eu sou João Lucas 👋
-## Quem eu sou?
+## ![mask](mask.png)Quem eu sou?
+![Linha divisória](Hr.webp)
 Atualmente eu sou um jovem programador (estudante) que busca entrar nesse mercado de programação. Em minha jornada busco me aperfeiçoar mais e mais, colecionando conhecimento e colocando-os em prática, então, bem vindo ao meu Github.
 
 ## Aprendizado
@@ -13,7 +14,7 @@ Css       |
           
           
 
-![Frierenimagem](frieren.jpg)
+![Cavaleiro](HollowFinal.gif)
 <div> 
   <a href="https://instagram.com/joao.delbianco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/no.109216" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
