@@ -11,18 +11,18 @@
 <p align="center">Sou um estudante de programação e designer gráfico, buscando evoluir constantemente e transformar conhecimento em prática.. Atualmente, gosto de misturar a programação com coisas que eu normalmente gosto, então, seja bem vindo ao meu Github.</p>
 
 <p align="center">
-  <img src="hollow-knight-knight.gif" width="300"/>
+  <img src="hollow-knight-knight.gif" width="250"/>
 </p>
 
 ### 🕷 Tecnologias
 Estou estudando atualmente na faculdade Unicesumar - Londrina/PR, e utilizo como recurso o VSCode (para programar) e o Github para postar meus repositórios, atualmente, sigo aprendendo;
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-FF69B4?style=flat&logo=behance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-1A1A1A?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-1A1A1A?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1A1A1A?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-1A1A1A?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design-1A1A1A?style=flat&logo=behance&logoColor=white"/>
 </p>
 
 <h2 align="center"> Onde me encontrar 🕸️</h2>
@@ -45,6 +45,10 @@ Estou estudando atualmente na faculdade Unicesumar - Londrina/PR, e utilizo como
 </div>
 
 ![FInal](HollowFinal.gif)
+<p align="center">
+  <sub>Lost in Hallownest, finding myself in code.</sub>
+</p>
+
 ![Linha divisória](Hr.webp)
 
 
