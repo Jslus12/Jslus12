@@ -1,13 +1,11 @@
 ![Linha divisória](Hr.webp)
 <div align="center">
 
-# ラファエル
+###### ラファエル
 
-Olá! eu sou **João Lucas**
+###### Olá! eu sou **João Lucas**
 
 </div>
-
-#
 
 # Quem eu sou?
 Atualmente eu sou um jovem programador (estudante) que busca entrar nesse mercado de programação. Em minha jornada busco me aperfeiçoar mais e mais, colecionando conhecimento e colocando-os em prática, então, bem vindo ao meu Github.
