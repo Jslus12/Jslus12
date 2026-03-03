@@ -22,7 +22,7 @@ Html5| Em aprendizagem
 Css | Em aprendizagem
 C | Em aprendizagem
       
-## 🕸️ Onde me encontrar   
+## 🕸️ _Onde me encontrar_  
 <div align="center"> 
   <a href="https://instagram.com/joao.delbianco" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
