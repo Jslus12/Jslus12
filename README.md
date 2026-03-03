@@ -18,11 +18,11 @@
 Estou estudando atualmente na faculdade Unicesumar - Londrina/PR, e utilizo como recurso o VSCode (para programar) e o Github para postar meus repositórios, atualmente, sigo aprendendo;
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-1A1A1A?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-111111?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-1A1A1A?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1A1A1A?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-1A1A1A?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Design-1A1A1A?style=flat&logo=behance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-222222?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-2A2A2A?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design-333333?style=flat&logo=behance&logoColor=white"/>
 </p>
 
 <h2 align="center"> Onde me encontrar 🕸️</h2>
