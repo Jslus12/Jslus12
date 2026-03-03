@@ -28,22 +28,21 @@ Estou estudando atualmente na faculdade Unicesumar - Londrina/PR, e utilizo como
 <h2 align="center"> Onde me encontrar 🕸️</h2>
 <div align="center"> 
   <a href="https://instagram.com/joao.delbianco" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=flat&logo=instagram&logoColor=white">
   </a>
 
   <a href="https://discord.gg/no.109216" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-1A1A1A?style=flat&logo=discord&logoColor=white">
   </a> 
 
   <a href="mailto:contatojoaosalomao944@gmail">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-222222?style=flat&logo=gmail&logoColor=white">
   </a>
 
   <a href="https://www.linkedin.com/in/joão-d-ba44923b0" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-2A2A2A?style=flat&logo=linkedin&logoColor=white">
   </a> 
 </div>
-
 ![FInal](HollowFinal.gif)
 <p align="center">
   <sub>Lost in Hallownest, finding myself in code.</sub>
