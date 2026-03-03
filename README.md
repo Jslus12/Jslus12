@@ -43,7 +43,9 @@ Estou estudando atualmente na faculdade Unicesumar - Londrina/PR, e utilizo como
     <img src="https://img.shields.io/badge/LinkedIn-2A2A2A?style=flat&logo=linkedin&logoColor=white">
   </a> 
 </div>
+
 ![FInal](HollowFinal.gif)
+
 <p align="center">
   <sub>Lost in Hallownest, finding myself in code.</sub>
 </p>
