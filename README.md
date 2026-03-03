@@ -15,13 +15,13 @@
 ### 🕷 Tecnologias
 Estou estudando atualmente na faculdade Unicesumar - Londrina/Pr, e utilizo como recurso o VSCode (para programar) e o Github para postar meus repositórios, atualmente, sigo aprendendo;
 
-| Linguagem | Status |
-|-----------|--------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) | 🟡 Em aprendizagem |
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | 🟡 Em aprendizagem |
-| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | 🟡 Em aprendizagem |
-| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | 🟡 Em aprendizagem |
-| ![Design](https://img.shields.io/badge/Design-FF69B4?style=flat&logo=behance&logoColor=white) | 🎨 Dou conta |
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-FF69B4?style=for-the-badge&logo=behance&logoColor=white" />
+</p>
 
 <h2 align="center"> Onde me encontrar 🕸️</h2>
 <div align="center"> 
