@@ -8,7 +8,7 @@
 </div>
 
 ## 👨‍💻 Quem eu sou?
-Atualmente eu sou um jovem programador (estudante) que busca entrar nesse mercado de programação. Em minha jornada busco me aperfeiçoar mais e mais, colecionando conhecimento e colocando-os em prática, então, bem vindo ao meu Github.
+<p align="center">Atualmente eu sou um jovem programador (estudante) e um designer gráfico, que busca entrar nesse mercado de programação. Em minha jornada busco me aperfeiçoar mais e mais, colecionando conhecimento e colocando-os em prática. Atualmente, gosto de misturar a programação com coisas que eu normalmente gosto, então, seja bem vindo ao meu Github.</p>
 
 ![imagemandando](hollow-knight-knight.gif)
 
@@ -21,8 +21,9 @@ Java | Em aprendizagem
 Html5| Em aprendizagem
 Css | Em aprendizagem
 C | Em aprendizagem
+Design Gráfico | Dá pro gasto
       
-<h2 align="center">🕸 Onde me encontrar</h2>
+<h2 align="center"> Onde me encontrar 🕸️</h2>
 <div align="center"> 
   <a href="https://instagram.com/joao.delbianco" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
