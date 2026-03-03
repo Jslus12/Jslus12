@@ -1,5 +1,14 @@
-# Salve, eu sou João Lucas 👋
 ![Linha divisória](Hr.webp)
+<div align="center">
+
+# ラファエル
+
+Hi there! I'm **João Lucas**
+
+### 
+
+</div>
+
 # Quem eu sou?
 Atualmente eu sou um jovem programador (estudante) que busca entrar nesse mercado de programação. Em minha jornada busco me aperfeiçoar mais e mais, colecionando conhecimento e colocando-os em prática, então, bem vindo ao meu Github.
 ![imagemandando](hollow-knight-knight.gif)
@@ -16,8 +25,9 @@ C | Em aprendizagem
 ![FInal](HollowFinal.gif)
       
 ## Redes sociais       
-    Abaixo, deixarei minhas redes sociais para que possa entrar em contato ou acompanhar meu progresso.
-    <div> 
+Abaixo, deixarei minhas redes sociais para que possa entrar em contato ou acompanhar meu progresso.
+
+<div> 
   <a href="https://instagram.com/joao.delbianco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/no.109216" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatojoaosalomao944@gmail"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
