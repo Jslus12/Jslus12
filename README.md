@@ -1,9 +1,9 @@
 ![Linha divisória](Hr.webp)
 <div align="center">
 
-###### ラファエル
+#### ラファエル
 
-###### Olá! eu sou **João Lucas**
+#### Olá! eu sou **João Lucas**
 
 </div>
 
