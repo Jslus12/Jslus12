@@ -6,17 +6,12 @@ Atualmente eu sou um jovem programador (estudante) que busca entrar nesse mercad
 # Aprendizado
 Estou estudando atualmente na faculdade Unicesumar - Londrina/Pr, e utilizo como recurso o VSCode (para programar) e o Github para postar meus repositórios, atualmente, sigo aprendendo;
 
-~~~ Ferramentas
-Vscode, Github
-~~~
-
-~~~ Linguagens
-Java, C, HTML5, CSS
-~~~
-
-~~~ Status
-Em aprendizagem
-~~~   
+Linguagens   | Status
+--------- | ------
+Java | Em aprendizagem
+Html5| Em aprendizagem
+Css | Em aprendizagem
+C | Em aprendizagem
 
 
 ![imagemandando](hollow-knight-knight.gif)
