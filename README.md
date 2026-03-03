@@ -1,4 +1,3 @@
-![Banner](HollowFinal.gif)
 ![Linha divisória](Hr.webp)
 <div align="center">
 
@@ -8,10 +7,12 @@
 
 </div>
 
-# Quem eu sou?
+## 👨‍💻 Quem eu sou?
 Atualmente eu sou um jovem programador (estudante) que busca entrar nesse mercado de programação. Em minha jornada busco me aperfeiçoar mais e mais, colecionando conhecimento e colocando-os em prática, então, bem vindo ao meu Github.
+
 ![imagemandando](hollow-knight-knight.gif)
-# Aprendizado |
+
+## 🕷️ Tecnologias
 Estou estudando atualmente na faculdade Unicesumar - Londrina/Pr, e utilizo como recurso o VSCode (para programar) e o Github para postar meus repositórios, atualmente, sigo aprendendo;
 
 Linguagens   | Status
@@ -23,7 +24,7 @@ C | Em aprendizagem
 
 ![FInal](HollowFinal.gif)
       
-## Redes sociais |      
+## 🕸️ Onde me encontrar   
 Abaixo, deixarei minhas redes sociais para que possa entrar em contato ou acompanhar meu progresso.
 
 <div> 
@@ -39,6 +40,3 @@ Abaixo, deixarei minhas redes sociais para que possa entrar em contato ou acompa
 
 
 # Repositórios:
-
-
-
