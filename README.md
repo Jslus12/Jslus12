@@ -1,7 +1,7 @@
 ![Linha divisória](Hr.webp)
 <div align="center">
 
-#### "Em silêncio, eu evoluo."
+#### _"Em silêncio, eu evoluo."_
 
 #### Olá! eu sou **João Lucas**
 
