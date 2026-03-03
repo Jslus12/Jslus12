@@ -2,7 +2,7 @@
 <div align="center">
 
 #### _"Em silêncio, eu evoluo."_
-#### Quem eu sou?
+
 #### Olá! eu sou _João Lucas_
 
 </div>
