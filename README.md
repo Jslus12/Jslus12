@@ -20,7 +20,8 @@ Estou estudando atualmente na faculdade Unicesumar - Londrina/Pr, e utilizo como
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-FF69B4?style=flat&logo=behance&logoColor=white" />
+  
+  ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-8A2BE2?style=flat&logo=behance&logoColor=white)
 </p>
 
 <h2 align="center"> Onde me encontrar 🕸️</h2>
