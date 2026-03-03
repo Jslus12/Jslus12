@@ -1,10 +1,13 @@
 ![Linha divisória](Hr.webp)
 <div align="center">
 
+<!-- Titulo -->
+
 #### _"Em silêncio, eu evoluo."_
 
 #### Olá! eu sou _João Lucas_
 
+<!-- isso alinha os textos, fazendo ficarem centralizados -->
 <h2 align="center"> Sobre mim </h2>
 
 <p align="center">
@@ -12,7 +15,7 @@
   Atualmente gosto de misturar programação com aquilo que me inspira — arte, estética e identidade.
   Seja bem-vindo ao meu GitHub.
 </p>
-
+<!-- isso deixa a imagem centralizada tlgd -->
 <p align="center">
   <img src="hollow-knight-knight.gif" width="230"/>
 </p>
@@ -23,6 +26,7 @@
   Atualmente estudo na Unicesumar - Londrina/PR e utilizo o VSCode como principal ferramenta.
   Sigo evoluindo e aplicando conhecimento constantemente.
 </p>
+<!-- Badges do github, mexe n -->
 <p align="center">
   <img src="https://img.shields.io/badge/Java-111111?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-1A1A1A?style=flat&logo=html5&logoColor=white"/>
@@ -57,6 +61,5 @@
 </p>
 
 ![Linha divisória](Hr.webp)
-
 
 <h2 align="center">📂 Repositórios em destaque:</h2>
