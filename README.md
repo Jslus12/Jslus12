@@ -20,7 +20,7 @@ Estou estudando atualmente na faculdade Unicesumar - Londrina/Pr, e utilizo como
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) | 🟡 Em aprendizagem |
 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | 🟡 Em aprendizagem |
 | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | 🟡 Em aprendizagem |
-![Graphic Design](https://img.shields.io/badge/Graphic%20Design-8A2BE2?style=flat&logo=behance&logoColor=white)
+![Design](https://img.shields.io/badge/Design-FF69B4?style=flat&logo=adobe&logoColor=white) | 🟢 Dou conta
 
 <h2 align="center"> Onde me encontrar 🕸️</h2>
 <div align="center"> 
