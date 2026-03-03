@@ -3,11 +3,10 @@
 
 #### _"Em silêncio, eu evoluo."_
 #### Quem eu sou?
-#### Olá! eu sou **João Lucas**
+#### Olá! eu sou _João Lucas_
 
 </div>
 <div align="center">Sobre mim</h2>
-<h2 align="center"> 
 <p align="center">Sou um estudante de programação e designer gráfico, buscando evoluir constantemente e transformar conhecimento em prática.. Atualmente, gosto de misturar a programação com coisas que eu normalmente gosto, então, seja bem vindo ao meu Github.</p>
 
 <p align="center">
