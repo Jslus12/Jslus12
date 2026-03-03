@@ -7,7 +7,7 @@
 
 </div>
 
-#### Sobre mim
+### Sobre mim
 <p align="center">Sou um estudante de programação e designer gráfico, buscando evoluir constantemente e transformar conhecimento em prática.. Atualmente, gosto de misturar a programação com coisas que eu normalmente gosto, então, seja bem vindo ao meu Github.</p>
 
 <p align="center">
