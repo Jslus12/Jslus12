@@ -1,7 +1,7 @@
 ![Linha divisória](Hr.webp)
 <div align="center">
 
-#### ラファエル
+#### "Em silêncio, eu evoluo."
 
 #### Olá! eu sou **João Lucas**
 
