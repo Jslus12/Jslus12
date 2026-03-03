@@ -5,13 +5,16 @@
 
 #### Olá! eu sou _João Lucas_
 
-</div>
-
-### Sobre mim
-<p align="center">Sou um estudante de programação e designer gráfico, buscando evoluir constantemente e transformar conhecimento em prática.. Atualmente, gosto de misturar a programação com coisas que eu normalmente gosto, então, seja bem vindo ao meu Github.</p>
+<h2 align="center"> Sobre mim </h2>
 
 <p align="center">
-  <img src="hollow-knight-knight.gif" width="250"/>
+  Sou um estudante de programação e designer gráfico, buscando evoluir constantemente e transformar conhecimento em prática.
+  Atualmente gosto de misturar programação com aquilo que me inspira — arte, estética e identidade.
+  Seja bem-vindo ao meu GitHub.
+</p>
+
+<p align="center">
+  <img src="hollow-knight-knight.gif" width="230"/>
 </p>
 
 ### 🕷 Tecnologias
