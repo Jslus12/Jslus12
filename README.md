@@ -8,20 +8,21 @@
 </div>
 
 <h2 align="center"> 👨‍💻 Quem eu sou?</h2>
-<p align="center">Atualmente eu sou um jovem programador (estudante) e um designer gráfico, que busca entrar nesse mercado de programação. Em minha jornada busco me aperfeiçoar mais e mais, colecionando conhecimento e colocando-os em prática. Atualmente, gosto de misturar a programação com coisas que eu normalmente gosto, então, seja bem vindo ao meu Github.</p>
+<p align="center">Sou um estudante de programação e designer gráfico, buscando evoluir constantemente e transformar conhecimento em prática.. Atualmente, gosto de misturar a programação com coisas que eu normalmente gosto, então, seja bem vindo ao meu Github.</p>
 
-![imagemandando](hollow-knight-knight.gif)
+<p align="center">
+  <img src="hollow-knight-knight.gif" width="300"/>
+</p>
 
 ### 🕷 Tecnologias
-Estou estudando atualmente na faculdade Unicesumar - Londrina/Pr, e utilizo como recurso o VSCode (para programar) e o Github para postar meus repositórios, atualmente, sigo aprendendo;
+Estou estudando atualmente na faculdade Unicesumar - Londrina/PR, e utilizo como recurso o VSCode (para programar) e o Github para postar meus repositórios, atualmente, sigo aprendendo;
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  
-  ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-8A2BE2?style=flat&logo=behance&logoColor=white)
+  <img src="https://img.shields.io/badge/Design-FF69B4?style=flat&logo=behance&logoColor=white" />
 </p>
 
 <h2 align="center"> Onde me encontrar 🕸️</h2>
@@ -47,4 +48,4 @@ Estou estudando atualmente na faculdade Unicesumar - Londrina/Pr, e utilizo como
 ![Linha divisória](Hr.webp)
 
 
-# Repositórios:
+<h2 align="center">📂 Repositórios em destaque</h2>
