@@ -2,12 +2,12 @@
 <div align="center">
 
 #### _"Em silêncio, eu evoluo."_
-
+#### Quem eu sou?
 #### Olá! eu sou **João Lucas**
 
 </div>
-
-<h2 align="center"> 👨‍💻 Quem eu sou?</h2>
+<div align="center">Sobre mim</h2>
+<h2 align="center"> 
 <p align="center">Sou um estudante de programação e designer gráfico, buscando evoluir constantemente e transformar conhecimento em prática.. Atualmente, gosto de misturar a programação com coisas que eu normalmente gosto, então, seja bem vindo ao meu Github.</p>
 
 <p align="center">
@@ -53,4 +53,4 @@ Estou estudando atualmente na faculdade Unicesumar - Londrina/PR, e utilizo como
 ![Linha divisória](Hr.webp)
 
 
-<h2 align="center">📂 Repositórios em destaque</h2>
+<h2 align="center">📂 Repositórios em destaque:</h2>
