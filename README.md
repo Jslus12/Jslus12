@@ -17,9 +17,12 @@
   <img src="hollow-knight-knight.gif" width="230"/>
 </p>
 
-### 🕷 Tecnologias
-Estou estudando atualmente na faculdade Unicesumar - Londrina/PR, e utilizo como recurso o VSCode (para programar) e o Github para postar meus repositórios, atualmente, sigo aprendendo;
+<h2 align="center">🕷️ Tecnologias</h2>
 
+<p align="center">
+  Atualmente estudo na Unicesumar - Londrina/PR e utilizo o VSCode como principal ferramenta.
+  Sigo evoluindo e aplicando conhecimento constantemente.
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-111111?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-1A1A1A?style=flat&logo=html5&logoColor=white"/>
@@ -50,7 +53,7 @@ Estou estudando atualmente na faculdade Unicesumar - Londrina/PR, e utilizo como
 ![FInal](HollowFinal.gif)
 
 <p align="center">
-  <sub>Lost in Hallownest, finding myself in code.</sub>
+  <sub><i>Lost in Hallownest, finding myself in code.</i></sub>
 </p>
 
 ![Linha divisória](Hr.webp)
