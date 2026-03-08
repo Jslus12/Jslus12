@@ -5,7 +5,7 @@
 
 #### _"Em silêncio, eu evoluo."_
 
-#### Olá! eu sou _João Lucas D_
+#### Olá! eu sou _João Lucas_
 
 <!-- isso alinha os textos, fazendo ficarem centralizados -->
 <h2 align="center"> Sobre mim </h2>
