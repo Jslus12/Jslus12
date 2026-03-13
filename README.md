@@ -10,12 +10,32 @@
   <img src="https://img.shields.io/badge/Design-0D0D0D?style=flat&logo=behance&logoColor=white"/>
 </p>
 
+
 <!-- Titulo -->
 
 #### _"ギラティナ."_
 
 #### Olá! eu sou _João Lucas_
+<div align="center"> 
+  <a href="https://instagram.com/joao.delbianco" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=flat&logo=instagram&logoColor=white">
+  </a>
 
+  <a href="https://discord.gg/no.109216" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-240046?style=flat&logo=discord&logoColor=white">
+  </a> 
+
+  <a href="mailto:contatojoaosalomao944@gmail">
+    <img src="https://img.shields.io/badge/Gmail-3C096C?style=flat&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/joão-d-ba44923b0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-5A189A?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://wa.me/43999271076" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-7B2CBF?style=flat&logo=whatsapp&logoColor=white">
+</a>
+</div>
 <!-- isso alinha os textos, fazendo ficarem centralizados -->
 <h2 align="center"> Sobre mim </h2>
 
@@ -42,26 +62,6 @@ Seja bem-vindo ao meu GitHub.
 
 </tr>
 </table>
-<div align="center"> 
-  <a href="https://instagram.com/joao.delbianco" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=flat&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="https://discord.gg/no.109216" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-240046?style=flat&logo=discord&logoColor=white">
-  </a> 
-
-  <a href="mailto:contatojoaosalomao944@gmail">
-    <img src="https://img.shields.io/badge/Gmail-3C096C?style=flat&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/joão-d-ba44923b0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-5A189A?style=flat&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://wa.me/43999271076" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-7B2CBF?style=flat&logo=whatsapp&logoColor=white">
-</a>
-</div>
 
 <p align="center">
 
@@ -70,14 +70,16 @@ Seja bem-vindo ao meu GitHub.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jslus12&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=ffffff"/>
 
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jslus12&theme=transparent&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
-<p align="center">
-  <sub><i>Lost in Hallownest, finding myself in code.</i></sub>
+
+  <sub><i>ghost of programming.</i></sub>
 </p>
 
 <p align="center">
   <img src="haunter.gif" width="200"/>
 </p>
+ <sub><i>Isso é tudo por agora.</i></sub>
+</p>
+
 <div align="center">
 <p align="center">
 <h2 align="center">📂 Repositórios em destaque:</h2>
