@@ -62,12 +62,5 @@
 
 ![Linha divisória](Hr.webp)
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lohjs-0&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
-
-<img height="180em" src="https://github.com/Jslus12/Jslus12-0&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=ffffff"/>
-
-</p>
 
 <h2 align="center">📂 Repositórios em destaque:</h2>
