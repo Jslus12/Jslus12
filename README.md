@@ -77,7 +77,7 @@ Seja bem-vindo ao meu GitHub.
 <p align="center">
   <img src="haunter.gif" width="200"/>
 </p>
- <sub><i>Isso é tudo por agora.</i></sub>
+ <sub><i>Isso é tudo por enquanto.</i></sub>
 </p>
 
 <div align="center">
