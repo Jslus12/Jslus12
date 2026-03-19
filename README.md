@@ -83,3 +83,5 @@ Seja bem-vindo ao meu GitHub.
 <div align="center">
 <p align="center">
 <h2 align="center">📂 Repositórios em destaque:</h2>
+
+![snake gif](https://github.com/Jslus12/Jslus12/blob/output/github-contribution-grid-snake.svg)
