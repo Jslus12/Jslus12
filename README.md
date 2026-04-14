@@ -68,7 +68,7 @@ Seja bem-vindo ao meu GitHub.
 <br>
 
 <div align="center">
-<h3>Statistics</h3>
+<h3>Estatísticas</h3>
 </div>
 
 ---
@@ -88,6 +88,7 @@ Seja bem-vindo ao meu GitHub.
 
 </div>
 
+<div>
   <sub><i>ghost of programming.</i></sub>
 </p>
 
