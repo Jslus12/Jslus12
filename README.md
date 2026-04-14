@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=7B2CBF&size=25&center=true&vCenter=true&width=600&lines=ギラティナ;ghost+of+programming;João+Lucas" />
+<img src="https://readme-typing-svg.herokuapp.com?color=7B2CBF&size=22&center=true&vCenter=true&width=600&lines=ギラティナ;ghost+of+programming;João+Lucas" />
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -20,9 +20,9 @@
 
 </div>
 
----
+<br>
 
-<h2 align="center">👁️ Sobre mim</h2>
+<h3 align="center">Sobre mim</h3>
 
 <table align="center">
 <tr>
@@ -31,15 +31,14 @@
 
 <p align="left">
 
-Sou um estudante de programação e designer gráfico, buscando evoluir constantemente e transformar conhecimento em prática.
+Sou um estudante de programação e designer gráfico, focado em evolução constante e prática.
 
-Gosto de misturar programação com aquilo que me inspira — arte, estética e identidade.
+Gosto de unir programação com estética, identidade e arte.
 
-📍 Unicesumar - Londrina/PR
-💻 VSCode como ferramenta principal
-🚀 Sempre evoluindo e aplicando conhecimento
+Unicesumar - Londrina/PR
+VSCode como principal ferramenta
 
-Seja bem-vindo ao meu GitHub.
+Sempre buscando evoluir.
 
 </p>
 
@@ -54,11 +53,9 @@ Seja bem-vindo ao meu GitHub.
 </tr>
 </table>
 
----
+<br>
 
 <div align="center">
-
-### 🌐 Contato
 
 <a href="https://instagram.com/joao.delbianco" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=flat&logo=instagram&logoColor=white">
@@ -82,20 +79,11 @@ Seja bem-vindo ao meu GitHub.
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<h2>📂 Repositórios em destaque</h2>
-<sub><i>em breve...</i></sub>
-
-</div>
-
----
-
-<div align="center">
-
-<h2>📊 Estatísticas</h2>
+<h3>Estatísticas</h3>
 
 <img src="https://streak-stats.demolab.com?user=dionoki&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=000000&stroke=7B2CBF&ring=7B2CBF&fire=C77DFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7B2CBF&sideLabels=7B2CBF&dates=ffffff" height="200" />
 
@@ -103,7 +91,7 @@ Seja bem-vindo ao meu GitHub.
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -111,14 +99,12 @@ Seja bem-vindo ao meu GitHub.
 
 </div>
 
----
+<br>
 
 <p align="center">
   <img src="haunter.gif" width="200"/>
 </p>
 
 <div align="center">
-
 <sub><i>ghost of programming.</i></sub>
-
 </div>
