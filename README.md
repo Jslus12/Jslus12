@@ -5,17 +5,31 @@
 <div align="center">
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-F5F5F5?style=flat&logo=java&logoColor=000000"/>
-<img src="https://img.shields.io/badge/HTML5-DADADA?style=flat&logo=html5&logoColor=000000"/>
-<img src="https://img.shields.io/badge/CSS3-BFBFBF?style=flat&logo=css3&logoColor=000000"/>
-<img src="https://img.shields.io/badge/C-8C8C8C?style=flat&logo=c&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Design-404040?style=flat&logo=behance&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Now%20Playing-System%20of%20a%20Down-0D0D0D?style=flat&logo=spotify&logoColor=1DB954"/>
+  <img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=html5&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=css3&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-white?style=flat&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Design-white?style=flat&logo=behance&logoColor=black"/>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F5F5F5&size=22&center=true&vCenter=true&width=600&lines=ギラティナ;Father+into+your+hands;João+Lucas" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=600&lines=ギラティナ;ghost+of+programming;João+Lucas" />
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-222222?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Design-000000?style=flat&logo=behance&logoColor=white"/>
+
+</div>
+
+<br>
+
 <h3 align="center">Sobre mim</h3>
 
 <table align="center">
@@ -29,8 +43,8 @@ Sou um estudante de programação e designer gráfico, focado em evolução cons
 
 Gosto de unir programação com estética, identidade e arte.
 
-Unicesumar - Londrina/PR
-VSCode como principal ferramenta
+Unicesumar - Londrina/PR  
+VSCode como principal ferramenta  
 
 Sempre buscando evoluir.
 
@@ -51,27 +65,13 @@ Sempre buscando evoluir.
 
 <div align="center">
 
-<a href="https://instagram.com/joao.delbianco" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=flat&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://discord.gg/no.109216" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-240046?style=flat&logo=discord&logoColor=white">
-</a> 
-
-<a href="mailto:contatojoaosalomao944@gmail">
-  <img src="https://img.shields.io/badge/Gmail-3C096C?style=flat&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/joão-d-ba44923b0" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-5A189A?style=flat&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://wa.me/43999271076" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-7B2CBF?style=flat&logo=whatsapp&logoColor=white">
+<a href="https://img.shields.io/badge/Spotify-System%20of%20a%20Down-0D0D0D?style=flat&logo=spotify&logoColor=1DB954">
+  <img src="https://img.shields.io/badge/Now%20Playing-System%20of%20a%20Down-0D0D0D?style=flat&logo=spotify&logoColor=1DB954">
 </a>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -101,11 +101,11 @@ Sempre buscando evoluir.
 
 <div align="center">
 
-<h3>📊 Estatísticas</h3>
+<h3>Estatísticas</h3>
 
-<img src="https://streak-stats.demolab.com?user=Jslus12&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=000000&stroke=7B2CBF&ring=7B2CBF&fire=C77DFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7B2CBF&sideLabels=7B2CBF&dates=ffffff" height="200" />
+<img src="https://streak-stats.demolab.com?user=Jslus12&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=7B2CBF&fire=C77DFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7B2CBF&sideLabels=aaaaaa&dates=aaaaaa" height="200" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jslus12&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=7B2CBF&text_color=ffffff&icon_color=C77DFF" height="200" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jslus12&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=7B2CBF" height="200" />
 
 </div>
 
@@ -113,15 +113,16 @@ Sempre buscando evoluir.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jslus12&bg_color=000000&color=7B2CBF&line=5A189A&point=C77DFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jslus12&bg_color=000000&color=cccccc&line=7B2CBF&point=C77DFF&area=true&hide_border=true"/>
 
 </div>
 
 <br>
 
 <p align="center">
-  <img src="Soad.png" width="300"/>
+  <img src="Soad.png" width="500"/>
 </p>
+
 
 <div align="center">
 <sub><i style="color:#7B2CBF;">Why have you forsaken me?</i></sub>
