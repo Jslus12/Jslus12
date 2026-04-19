@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="Soad.png" width="600"/>
+  <img src="Hand.png" width="600"/>
 </p>
 
 <div align="center">
 <<<<<<< HEAD
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-FFFF?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-FFFF?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-3C096C?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-240046?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Design-0D0D0D?style=flat&logo=behance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-fffff?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-fffff?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-fffff?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-fffff?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design-fffff?style=flat&logo=behance&logoColor=white"/>
 </p>
 =======
 >>>>>>> f05d962380ca8b7e37ff8ac8f3778a07b15dde96
