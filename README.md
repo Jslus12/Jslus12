@@ -13,24 +13,9 @@
 <img src="https://img.shields.io/badge/Now%20Playing-System%20of%20a%20Down-0D0D0D?style=flat&logo=spotify&logoColor=1DB954"/>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=7B2CBF&size=22&center=true&vCenter=true&width=600&lines=ギラティナ;ghost+of+programming;João+Lucas" />
+<img src="https://readme-typing-svg.herokuapp.com?color=F5F5F5&size=22&center=true&vCenter=true&width=600&lines=ギラティナ;ghost+of+programming;João+Lucas" />
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-7B2CBF?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-5A189A?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-3C096C?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-240046?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Design-0D0D0D?style=flat&logo=behance&logoColor=white"/>
-
-</div>
-
-<br>
-
 <h3 align="center">Sobre mim</h3>
 
 <table align="center">
