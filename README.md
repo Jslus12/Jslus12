@@ -65,9 +65,11 @@ Sempre buscando evoluir.
 
 <div align="center">
 
-<a href="https://img.shields.io/badge/Spotify-System%20of%20a%20Down-0D0D0D?style=flat&logo=spotify&logoColor=1DB954">
-  <img src="https://img.shields.io/badge/Now%20Playing-System%20of%20a%20Down-0D0D0D?style=flat&logo=spotify&logoColor=1DB954">
-</a>
+<h3>📊 Estatísticas</h3>
+
+<img src="https://streak-stats.demolab.com?user=Jslus12&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa" height="200" />
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jslus12&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff" height="200" />
 
 </div>
 
@@ -75,45 +77,7 @@ Sempre buscando evoluir.
 
 <div align="center">
 
-<a href="https://instagram.com/joao.delbianco" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram&logoColor=black">
-</a>
-
-<a href="https://discord.gg/no.109216" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-white?style=flat&logo=discord&logoColor=black">
-</a> 
-
-<a href="mailto:contatojoaosalomao944@gmail">
-  <img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&logoColor=black">
-</a>
-
-<a href="https://www.linkedin.com/in/joão-d-ba44923b0" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&logoColor=black">
-</a>
-
-<a href="https://wa.me/43999271076" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-white?style=flat&logo=whatsapp&logoColor=black">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<h3>Estatísticas</h3>
-
-<img src="https://streak-stats.demolab.com?user=Jslus12&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=7B2CBF&fire=C77DFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7B2CBF&sideLabels=aaaaaa&dates=aaaaaa" height="200" />
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jslus12&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=7B2CBF" height="200" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jslus12&bg_color=000000&color=cccccc&line=7B2CBF&point=C77DFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jslus12&bg_color=000000&color=cccccc&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
