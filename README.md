@@ -3,16 +3,15 @@
 </p>
 
 <div align="center">
-<<<<<<< HEAD
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-fffff?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-fffff?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-fffff?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-fffff?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Design-fffff?style=flat&logo=behance&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F5F5F5?style=flat&logo=java&logoColor=000000"/>
+<img src="https://img.shields.io/badge/HTML5-DADADA?style=flat&logo=html5&logoColor=000000"/>
+<img src="https://img.shields.io/badge/CSS3-BFBFBF?style=flat&logo=css3&logoColor=000000"/>
+<img src="https://img.shields.io/badge/C-8C8C8C?style=flat&logo=c&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Design-404040?style=flat&logo=behance&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Now%20Playing-System%20of%20a%20Down-0D0D0D?style=flat&logo=spotify&logoColor=1DB954"/>
 </p>
-=======
->>>>>>> f05d962380ca8b7e37ff8ac8f3778a07b15dde96
 
 <img src="https://readme-typing-svg.herokuapp.com?color=7B2CBF&size=22&center=true&vCenter=true&width=600&lines=ギラティナ;ghost+of+programming;João+Lucas" />
 
