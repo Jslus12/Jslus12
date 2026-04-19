@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Now%20Playing-System%20of%20a%20Down-0D0D0D?style=flat&logo=spotify&logoColor=1DB954"/>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F5F5F5&size=22&center=true&vCenter=true&width=600&lines=ギラティナ;ghost+of+programming;João+Lucas" />
+<img src="https://readme-typing-svg.herokuapp.com?color=F5F5F5&size=22&center=true&vCenter=true&width=600&lines=ギラティナ;Father+into+your+hands;João+Lucas" />
 
 </div>
 <h3 align="center">Sobre mim</h3>
@@ -40,7 +40,7 @@ Sempre buscando evoluir.
 
 <td width="40%" align="center">
 
-<img src="gengar.gif" width="230"/>
+<img src="Steal.png" width="230"/>
 
 </td>
 
@@ -96,9 +96,9 @@ Sempre buscando evoluir.
 <br>
 
 <p align="center">
-  <img src="haunter.gif" width="200"/>
+  <img src="Soad.png" width="200"/>
 </p>
 
 <div align="center">
-<sub><i>ghost of programming.</i></sub>
+<sub><i>Whhy have you forsaken me?</i></sub>
 </div>
