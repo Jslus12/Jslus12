@@ -26,7 +26,11 @@
 <img src="https://img.shields.io/badge/C-1e0000?style=flat&logo=c&logoColor=606060&labelColor=1e0000"/>
 <img src="https://img.shields.io/badge/Design-0f0f0f?style=flat&logo=behance&logoColor=4a4a4a&labelColor=0f0f0f"/>
 
-<br><br>
+<br>
+<p align="center">
+  <img src="f40_banner.svg" width="700"/>
+</p>
+<br>
 
 <!-- BADGES INVERTIDAS — branco/cinza → vermelho -->
 <img src="https://img.shields.io/badge/JavaScript-e8e4de?style=flat&logo=javascript&logoColor=B30000&labelColor=e8e4de"/>
@@ -40,9 +44,7 @@
 
 <br>
 
-<p align="center">
-  <img src="f40_banner.svg" width="860"/>
-</p>
+
 
 
 <br>
