@@ -101,7 +101,7 @@ Sempre em movimento. Apenas faço aquilo que eu gosto.
   <img src="https://img.shields.io/badge/M A R A N E L L O · S C U D E R I A · D E V-0f0f0f?style=flat&labelColor=0f0f0f&color=B30000"/>
 </div>
 <div align="center">
-  <sub><i>— "Eu só paro de acelerar quando ver a linha de chegada" —</i></sub>
+  <sub><i>— "I only stop accelerating when I see the finish line." —</i></sub>
 </div>
 
 
