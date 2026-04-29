@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="f40_banner.svg" width="700"/>
-</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=3500&pause=1200&color=F0EDE6&center=true&vCenter=true&width=700&lines=JOÃO+LUCAS" />
@@ -40,8 +37,9 @@
 
 </div>
 
-<br><br>
-
+<p align="center">
+  <img src="f40_banner.svg" width="700"/>
+</p>
 
 
 <h3 align="center"><sub>S O B R E &nbsp; O &nbsp; P I L O T O</sub></h3>
