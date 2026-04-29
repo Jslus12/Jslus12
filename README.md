@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="f40_banner.svg" width="700"/>
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=3500&pause=1200&color=F0EDE6&center=true&vCenter=true&width=700&lines=JOÃO+LUCAS" />
 </div>
@@ -10,9 +14,7 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="f40_banner.svg" width="700"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=600&lines=ギラティナ;Il+futuro+è+nelle+nostre+mani;João+Lucas" />
 
 </div>
 
