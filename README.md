@@ -10,7 +10,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=600&lines=ギラティナ;Il+futuro+è+nelle+nostre+mani;João+Lucas" />
+<p align="center">
+  <img src="f40_banner.svg" width="700"/>
+</p>
 
 </div>
 
@@ -38,9 +40,7 @@
 
 <br><br>
 
-<p align="center">
-  <img src="f40_banner.svg" width="700"/>
-</p>
+
 
 <h3 align="center"><sub>S O B R E &nbsp; O &nbsp; P I L O T O</sub></h3>
 
