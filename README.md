@@ -6,26 +6,39 @@
 <div align="center">
 
 <!-- BADGES (degrade nelas) -->
+<!-- TOPO -->
+<p align="center">
+  <img src="codegeass.gif" width="600"/>
+</p>
+
+<div align="center">
+
+<!-- BADGES (degrade nelas) -->
 <p>
   <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-DFF5D8?style=flat&logo=html5&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS3-A3D977?style=flat&logo=css3&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-6DA55F?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-4A7A4A?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Design-000000?style=flat&logo=behance&logoColor=white"/>
 </p>
+
 <!-- TEXTO -->
-<img src="https://readme-typing-svg.herokuapp.com?color=A3D977&size=22&center=true&vCenter=true&width=600&lines=ギラティナ;Code+Geass+;Ana+Giulia" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=600&lines=ギラティナ;Father+into+your+hands;João+Lucas" />
+
 <br><br>
+
+<!-- MESMAS BADGES INVERTIDAS -->
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-4A7A4A?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-A3D977?style=flat&logo=css3&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-6DA55F?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-DFF5D8?style=flat&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/Design-FFFFFF?style=flat&logo=behance&logoColor=black"/>
 </p>
 
 </div>
-
 <br>
 
 <h3 align="center">Sobre mim</h3>
