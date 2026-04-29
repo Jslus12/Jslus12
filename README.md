@@ -65,14 +65,12 @@ Sempre em movimento.
 
 </td>
 <td width="40%" align="center">
-  <img src="Steal.png" width="220"/>
+  <img src="Pneu.png" width="220"/>
 </td>
 </tr>
 </table>
 
 <br>
-
----
 
 <br>
 
