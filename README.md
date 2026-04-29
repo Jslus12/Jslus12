@@ -1,6 +1,6 @@
 <!-- TOPO -->
 <p align="center">
-  <img src="codegeass.gif" width="600"/>
+  <img src="codegeass.mp4" width="600"/>
 </p>
 
 <div align="center">
@@ -15,7 +15,8 @@
 </p>
 
 <!-- TEXTO -->
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=600&lines=ギラティナ;Father+into+your+hands;João+Lucas" />
+<img src="https://readme-typing-svg.herokuapp.com?color=A3D977&size=22&center=true&vCenter=true&width=600&lines=ギラティナ;Father+into+your+hands;João+Lucas" />
+
 
 <br><br>
 
