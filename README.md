@@ -75,13 +75,6 @@ Sempre em movimento. Apenas faço aquilo que eu gosto.
 <h3 align="center"><sub>T E L E M E T R I A</sub></h3>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Jslus12&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=0C0C0C&stroke=B30000&ring=B30000&fire=B30000&currStreakNum=f0ede6&sideNums=f0ede6&currStreakLabel=888888&sideLabels=444444&dates=333333" height="185" />
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jslus12&show_icons=true&hide_border=true&bg_color=0C0C0C&title_color=B30000&text_color=888888&icon_color=B30000" height="185" />
-
-</div>
-
 <br>
 
 <div align="center">
@@ -90,18 +83,23 @@ Sempre em movimento. Apenas faço aquilo que eu gosto.
 
 <br>
 
----
+<img src="https://streak-stats.demolab.com?user=Jslus12&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=0C0C0C&stroke=B30000&ring=B30000&fire=B30000&currStreakNum=f0ede6&sideNums=f0ede6&currStreakLabel=888888&sideLabels=444444&dates=333333" height="185" />
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jslus12&show_icons=true&hide_border=true&bg_color=0C0C0C&title_color=B30000&text_color=888888&icon_color=B30000" height="185" />
+
+</div>
+
 
 <br>
 
 <p align="center">
-  <img src="Soad.png" width="480"/>
+  <img src="F40.jpeg" width="480"/>
 </p>
 
 <br>
 
 <div align="center">
-  <sub><i>— why have you forsaken me? —</i></sub>
+  <sub><i>— "Eu só paro de acelerar quando ver a linha de chegada" —</i></sub>
 </div>
 
 <br>
