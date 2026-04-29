@@ -25,13 +25,7 @@
 <img src="https://img.shields.io/badge/Java-3a0000?style=flat&logo=java&logoColor=8a8580&labelColor=3a0000"/>
 <img src="https://img.shields.io/badge/C-1e0000?style=flat&logo=c&logoColor=606060&labelColor=1e0000"/>
 <img src="https://img.shields.io/badge/Design-0f0f0f?style=flat&logo=behance&logoColor=4a4a4a&labelColor=0f0f0f"/>
-
-<br>
-<p align="center">
-  <img src="f40_banner.svg" width="700"/>
-</p>
-<br>
-
+<br><br>
 <!-- BADGES INVERTIDAS — branco/cinza → vermelho -->
 <img src="https://img.shields.io/badge/JavaScript-e8e4de?style=flat&logo=javascript&logoColor=B30000&labelColor=e8e4de"/>
 <img src="https://img.shields.io/badge/HTML5-ccc8c2?style=flat&logo=html5&logoColor=8B0000&labelColor=ccc8c2"/>
@@ -42,12 +36,11 @@
 
 </div>
 
-<br>
+<br><br>
 
-
-
-
-<br>
+<p align="center">
+  <img src="f40_banner.svg" width="700"/>
+</p>
 
 <h3 align="center"><sub>S O B R E &nbsp; O &nbsp; P I L O T O</sub></h3>
 
