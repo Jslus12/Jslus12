@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="Banner.png" width="600"/>
+  <img src="f40_banner.svg" width="860"/>
 </p>
 
 <div align="center">
