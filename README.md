@@ -1,30 +1,53 @@
 <p align="center">
-  <img src="Hand.png" width="600"/>
+  <img src="codegeass.mp4" width="600"/>
 </p>
 
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=html5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=css3&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-white?style=flat&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Design-white?style=flat&logo=behance&logoColor=black"/>
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=600&lines=ギラティナ;Father+into+your+hands;João+Lucas" />
-
-</div>
-
-<br>
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascriptlogoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-222222?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Design-000000?style=flat&logo=behance&logoColor=white"/>
+<!-- GRADIENTE (branco -> verde -> preto) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-FFFFFF?style=flat"/>
+  <img src="https://img.shields.io/badge/-DFF5D8?style=flat"/>
+  <img src="https://img.shields.io/badge/-A3D977?style=flat"/>
+  <img src="https://img.shields.io/badge/-4A7A4A?style=flat"/>
+  <img src="https://img.shields.io/badge/-000000?style=flat"/>
+</p>
+
+<!-- BADGES CLAROS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=flat&logo=html5&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-FFFFFF?style=flat&logo=css3&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-FFFFFF?style=flat&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Design-FFFFFF?style=flat&logo=behance&logoColor=black"/>
+</p>
+
+<!-- TEXTO ANIMADO -->
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=600&lines=ギラティナ;Father+into+your+hands;João+Lucas" />
+
+<br><br>
+
+<!-- JAVA (preto -> branco fake gradient) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-555555?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-AAAAAA?style=flat&logo=openjdk&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=openjdk&logoColor=black"/>
+</p>
+
+<!-- BADGES ESCUROS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-222222?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design-000000?style=flat&logo=behance&logoColor=white"/>
+</p>
+
+</div>
 
 </div>
 
