@@ -8,6 +8,10 @@
 
 <br>
 
+<p align="center">
+  <img src="Banner.png" width="600"/>
+</p>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=600&lines=ギラティナ;Il+futuro+è+nelle+nostre+mani;João+Lucas" />
