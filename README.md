@@ -91,7 +91,7 @@ Sempre em movimento. Apenas faço aquilo que eu gosto.
 
 <br>
 <p align="center">
-  <img src="F40.jpeg" width="900"/>
+  <img src="F40.jpeg" width="700"/>
 </p>
 <br>
 
