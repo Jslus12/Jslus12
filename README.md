@@ -13,14 +13,9 @@
   <img src="https://img.shields.io/badge/C-4A7A4A?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Design-000000?style=flat&logo=behance&logoColor=white"/>
 </p>
-
 <!-- TEXTO -->
-<img src="https://readme-typing-svg.herokuapp.com?color=A3D977&size=22&center=true&vCenter=true&width=600&lines=ギラティナ;Father+into+your+hands;João+Lucas" />
-
-
+<img src="https://readme-typing-svg.herokuapp.com?color=A3D977&size=22&center=true&vCenter=true&width=600&lines=ギラティナ;Code+Geass+;Ana+Giulia" />
 <br><br>
-
-<!-- MESMAS BADGES INVERTIDAS -->
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-4A7A4A?style=flat&logo=html5&logoColor=white"/>
