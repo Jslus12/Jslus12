@@ -49,19 +49,17 @@
 <td width="60%">
 
 ```
-  nome    →  João Lucas
-  base    →  Londrina, PR
-  equipe  →  Unicesumar
-  motor   →  VSCode
-  stack   →  JS · HTML · CSS · Java · C
-  foco    →  evolução constante
+  Nome    →  João Lucas
+  Base    →  Londrina, PR
+  Equipe  →  Unicesumar
+  Motor   →  VSCode
+  Stack   →  JS · HTML · CSS · Java · C
+  Foco    →  Evolução constante
 ```
-
 <br>
-
 Estudante de programação e designer gráfico.  
 Unindo código com estética, identidade e arte.  
-Sempre em movimento.
+Sempre em movimento. Apenas faço aquilo que eu gosto.
 
 </td>
 <td width="40%" align="center">
