@@ -65,7 +65,7 @@ Sempre em movimento.
 
 </td>
 <td width="40%" align="center">
-  <img src="Pneu.jpeg" width="220"/>
+  <img src="Spoiler.jpg" width="220"/>
 </td>
 </tr>
 </table>
