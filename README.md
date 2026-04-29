@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=600&lines=ギラティナ;Il futuro+è nelle+nostre mani.+—;João+Lucas" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=600&lines=ギラティナ;Il futuro+ènelle+nostremani.+—;João+Lucas" />
 
 </div>
 
@@ -25,6 +25,8 @@
 <img src="https://img.shields.io/badge/Java-3a0000?style=flat&logo=java&logoColor=8a8580&labelColor=3a0000"/>
 <img src="https://img.shields.io/badge/C-1e0000?style=flat&logo=c&logoColor=606060&labelColor=1e0000"/>
 <img src="https://img.shields.io/badge/Design-0f0f0f?style=flat&logo=behance&logoColor=4a4a4a&labelColor=0f0f0f"/>
+
+<br></br>
 <!-- BADGES INVERTIDAS — branco/cinza → vermelho -->
 <img src="https://img.shields.io/badge/JavaScript-e8e4de?style=flat&logo=javascript&logoColor=B30000&labelColor=e8e4de"/>
 <img src="https://img.shields.io/badge/HTML5-ccc8c2?style=flat&logo=html5&logoColor=8B0000&labelColor=ccc8c2"/>
