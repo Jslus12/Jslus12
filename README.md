@@ -1,15 +1,24 @@
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=3500&pause=1200&color=F0EDE6&center=true&vCenter=true&width=700&lines=JOÃO+LUCAS" />
+</div>
+
+<p align="center">
+  <sub><sup>S C U D E R I A &nbsp; D E V &nbsp; — &nbsp; L O N D R I N A &nbsp; / &nbsp; P R</sup></sub>
+</p>
+
+<br>
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./header-dark.png">
-  <img src="./header.png" alt="João Lucas" width="100%">
-</picture>
+<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=600&lines=2000;Watts;João+Lucas" />
 
 </div>
 
----
+<div align="center">
 
-<!-- BADGES / STACK -->
+</div>
+
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logoColor=555555&logo=javascript)
@@ -30,56 +39,19 @@
 
 </div>
 
----
-
-<!-- SOBRE O PILOTO -->
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                      SOBRE O PILOTO                         │
-├──────────────────────────┬──────────────────────────────────┤
-│  Nome   →  João Lucas    │  Base    →  Londrina, PR         │
-│  Equipe →  Unicensumar   │  Foco    →  Evolução constante   │
-├──────────────────────────┴──────────────────────────────────┤
-│                                                             │
-│  Estudante de programação e designer gráfico.               │
-│  Unindo código com estética, identidade e arte.             │
-│  Sempre em movimento. Apenas faço aquilo que eu gosto.      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
 <!-- FREQUÊNCIAS -->
-
 ```
 — FREQUÊNCIAS ———————————————————————————————————————————————
 
-  01   Música Um                          Artista Um     0:00
+  01   Invincible                          Michael Jackson     04:46
   ─────────────────────────────────────────────────────────
-  02   Música Dois                        Artista Dois   0:00
+  02   Heaven Can Wait                     Michael Jackson     05:05
+  "𝑻𝒉𝒆𝒍𝒍 𝒕𝒉𝒆 𝒂𝒏𝒈𝒆𝒍𝒔, "𝑵𝒐" 𝑰 𝒅𝒐𝒏'𝒕 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒍𝒆𝒂𝒗𝒆 𝒎𝒚 𝒃𝒂𝒃𝒚 𝒂𝒍𝒐𝒏𝒆 𝑰 𝒅𝒐𝒏'𝒕 𝒘𝒂𝒏𝒕 𝒏𝒐𝒃𝒐𝒅𝒚 𝒆𝒍𝒔𝒆 𝒕𝒐 𝒉𝒐𝒍𝒅 𝒚𝒐𝒖 𝑻𝒉𝒂𝒕'𝒔 𝒂 𝒄𝒉𝒂𝒏𝒄𝒆 𝒊'𝒍𝒍 𝒕𝒂𝒌𝒆 𝑩𝒂𝒃𝒚, 𝒊'𝒍𝒍 𝒔𝒕𝒂𝒚 𝑯𝒆𝒂𝒗𝒆𝒏 𝒄𝒂𝒏 𝒘𝒂𝒊𝒕."
   ─────────────────────────────────────────────────────────
-  03   Música Três                        Artista Três   0:00
+  03   Privacy                             Michael Jackson     04:50
 
 —————————————————————————————————————————————————————————————
 ```
-
----
-
-<!-- TELEMETRIA -->
-
-```
-— TELEMETRIA ————————————————————————————————————————————————
-
-   COMMITS 2026      STARS          SCORE       MOVIMENTO
-      260              1             A+             ∞
-
-—————————————————————————————————————————————————————————————
-```
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jslus12&theme=github-dark-blue&hide_border=true&background=0A0A0A&stroke=1A1A1A&ring=E8E8E8&fire=E8E8E8&currStreakLabel=666666&sideLabels=444444&dates=333333&currStreakNum=F5F5F5&sideNums=D4D4D4)](https://git.io/streak-stats)
-
 ---
 
 <!-- FOOTER -->
@@ -88,6 +60,6 @@
 
 *"I'm starting with the man in the mirror."*
 
-`MARARELLO · SCUDERIA DEV · LONDRINA`
+`INVINCIBLE · SCUDERIA DEV · LONDRINA`
 
 </div>
