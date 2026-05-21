@@ -1,108 +1,93 @@
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=3500&pause=1200&color=F0EDE6&center=true&vCenter=true&width=700&lines=JOÃO+LUCAS" />
-</div>
-
-<p align="center">
-  <sub><sup>S C U D E R I A &nbsp; D E V &nbsp; — &nbsp; L O N D R I N A &nbsp; / &nbsp; P R</sup></sub>
-</p>
-
-<br>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=600&lines=ギラティナ;Il+futuro+è+nelle+nostre+mani;João+Lucas" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./header-dark.png">
+  <img src="./header.png" alt="João Lucas" width="100%">
+</picture>
 
 </div>
 
-<br>
+---
 
+<!-- BADGES / STACK -->
 <div align="center">
 
-<!-- BADGES — degradê vermelho → escuro → preto -->
-<img src="https://img.shields.io/badge/JavaScript-B30000?style=flat&logo=javascript&logoColor=f0ede6&labelColor=B30000"/>
-<img src="https://img.shields.io/badge/HTML5-8B0000?style=flat&logo=html5&logoColor=d4cfc7&labelColor=8B0000"/>
-<img src="https://img.shields.io/badge/CSS3-600000?style=flat&logo=css3&logoColor=b0aba3&labelColor=600000"/>
-<img src="https://img.shields.io/badge/Java-3a0000?style=flat&logo=java&logoColor=8a8580&labelColor=3a0000"/>
-<img src="https://img.shields.io/badge/C-1e0000?style=flat&logo=c&logoColor=606060&labelColor=1e0000"/>
-<img src="https://img.shields.io/badge/Design-0f0f0f?style=flat&logo=behance&logoColor=4a4a4a&labelColor=0f0f0f"/>
-<br><br>
-<!-- BADGES INVERTIDAS — branco/cinza → vermelho -->
-<img src="https://img.shields.io/badge/JavaScript-e8e4de?style=flat&logo=javascript&logoColor=B30000&labelColor=e8e4de"/>
-<img src="https://img.shields.io/badge/HTML5-ccc8c2?style=flat&logo=html5&logoColor=8B0000&labelColor=ccc8c2"/>
-<img src="https://img.shields.io/badge/CSS3-aaa69f?style=flat&logo=css3&logoColor=600000&labelColor=aaa69f"/>
-<img src="https://img.shields.io/badge/Java-6e6b66?style=flat&logo=java&logoColor=2a0000&labelColor=6e6b66"/>
-<img src="https://img.shields.io/badge/C-404040?style=flat&logo=c&logoColor=200000&labelColor=404040"/>
-<img src="https://img.shields.io/badge/Design-1c1c1c?style=flat&logo=behance&logoColor=666666&labelColor=1c1c1c"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logoColor=555555&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logoColor=777777&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-262626?style=flat-square&logoColor=999999&logo=css3)
+![Java](https://img.shields.io/badge/Java-333333?style=flat-square&logoColor=bbbbbb&logo=openjdk)
+![C](https://img.shields.io/badge/C-444444?style=flat-square&logoColor=cccccc&logo=c)
+![C++](https://img.shields.io/badge/C++-555555?style=flat-square&logoColor=dddddd&logo=cplusplus)
+![Design](https://img.shields.io/badge/Design-eeeeee?style=flat-square&logoColor=111111&logo=figma)
+
+![Git](https://img.shields.io/badge/Git-eeeeee?style=flat-square&logoColor=111111&logo=git)
+![Figma](https://img.shields.io/badge/Figma-555555?style=flat-square&logoColor=dddddd&logo=figma)
+![React](https://img.shields.io/badge/React-444444?style=flat-square&logoColor=cccccc&logo=react)
+![Node](https://img.shields.io/badge/Node-333333?style=flat-square&logoColor=bbbbbb&logo=nodedotjs)
+![SQL](https://img.shields.io/badge/SQL-262626?style=flat-square&logoColor=999999&logo=mysql)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logoColor=777777&logo=linux)
+![Shell](https://img.shields.io/badge/Shell-111111?style=flat-square&logoColor=555555&logo=gnubash)
 
 </div>
 
-<p align="center">
-  <img src="f40_banner.svg" width="700"/>
-</p>
+---
 
-
-<h3 align="center"><sub>S O B R E &nbsp; O &nbsp; P I L O T O</sub></h3>
-
-<table align="center">
-<tr>
-<td width="60%">
+<!-- SOBRE O PILOTO -->
 
 ```
-  Nome    →  João Lucas
-  Base    →  Londrina, PR
-  Equipe  →  Unicesumar
-  Motor   →  VSCode
-  Stack   →  JS · HTML · CSS · Java · C
-  Foco    →  Evolução constante
+┌─────────────────────────────────────────────────────────────┐
+│                      SOBRE O PILOTO                         │
+├──────────────────────────┬──────────────────────────────────┤
+│  Nome   →  João Lucas    │  Base    →  Londrina, PR         │
+│  Equipe →  Unicensumar   │  Foco    →  Evolução constante   │
+├──────────────────────────┴──────────────────────────────────┤
+│                                                             │
+│  Estudante de programação e designer gráfico.               │
+│  Unindo código com estética, identidade e arte.             │
+│  Sempre em movimento. Apenas faço aquilo que eu gosto.      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
-<br>
-Estudante de programação e designer gráfico.  
-Unindo código com estética, identidade e arte.  
-Sempre em movimento. Apenas faço aquilo que eu gosto.
 
-</td>
-<td width="40%" align="center">
-  <img src="Spoiler.jpg" width="220"/>
-</td>
-</tr>
-</table>
+---
 
-<br>
+<!-- FREQUÊNCIAS -->
 
-<br>
+```
+— FREQUÊNCIAS ———————————————————————————————————————————————
 
-<h3 align="center"><sub>T E L E M E T R I A</sub></h3>
+  01   Música Um                          Artista Um     0:00
+  ─────────────────────────────────────────────────────────
+  02   Música Dois                        Artista Dois   0:00
+  ─────────────────────────────────────────────────────────
+  03   Música Três                        Artista Três   0:00
 
-<div align="center">
-<br>
+—————————————————————————————————————————————————————————————
+```
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jslus12&bg_color=0C0C0C&color=444444&line=B30000&point=f0ede6&area=true&area_color=B30000&hide_border=true"/>
-</div>
+---
 
-<br>
+<!-- TELEMETRIA -->
 
-<img src="https://streak-stats.demolab.com?user=Jslus12&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=0C0C0C&stroke=B30000&ring=B30000&fire=B30000&currStreakNum=f0ede6&sideNums=f0ede6&currStreakLabel=888888&sideLabels=444444&dates=333333" height="185" />
+```
+— TELEMETRIA ————————————————————————————————————————————————
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jslus12&show_icons=true&hide_border=true&bg_color=0C0C0C&title_color=B30000&text_color=888888&icon_color=B30000" height="185" />
+   COMMITS 2026      STARS          SCORE       MOVIMENTO
+      260              1             A+             ∞
 
-</div>
+—————————————————————————————————————————————————————————————
+```
 
-<br>
-<p align="center">
-  <img src="F40.jpeg" width="400"/>
-</p>
-<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jslus12&theme=github-dark-blue&hide_border=true&background=0A0A0A&stroke=1A1A1A&ring=E8E8E8&fire=E8E8E8&currStreakLabel=666666&sideLabels=444444&dates=333333&currStreakNum=F5F5F5&sideNums=D4D4D4)](https://git.io/streak-stats)
 
-<br>
+---
+
+<!-- FOOTER -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/M A R A N E L L O · S C U D E R I A · D E V-0f0f0f?style=flat&labelColor=0f0f0f&color=B30000"/>
-</div>
-<div align="center">
-  <sub><i>— "I only stop accelerating when I see the finish line." —</i></sub>
-</div>
 
+*"I'm starting with the man in the mirror."*
 
-<br>
+`MARARELLO · SCUDERIA DEV · LONDRINA`
+
+</div>
