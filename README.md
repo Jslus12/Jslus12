@@ -58,19 +58,15 @@ Sempre em movimento. Apenas faço aquilo que eu gosto.
 </table>
 <br>
 <div align="center">
-
-
-
 </div>
 
-<table align="center">
-<tr>
-<td width="60%">
-<br>
+
+
+
 <p align="center">
-  <sub><sup>M A I S &nbsp; T O C A D A S  &nbsp; — &nbsp; M I C H A E L -  J A C K S O N&nbsp;</sup></sub>
-</p>
+<sub><sup>M A I S &nbsp; T O C A D A S  &nbsp; — &nbsp; M I C H A E L -  J A C K S O N&nbsp;</sup></sub>
 <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=600&lines=Álbum Invecible" />
+</p>
 </div>
 
 ```
