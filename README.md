@@ -33,26 +33,27 @@
 
 
 <h3 align="center"><sub> 𝐒 𝐎 𝐁 𝐑 𝐄 &nbsp; 𝐌 𝐈 𝐌</sub></h3>
+<table align="center">
+<tr>
 
-<table align="center" style="border: none;">
-<tr style="border: none;">
-<td width="60%" style="border: none;">
+<td width="60%">
 
-Nome → João Lucas
-Base → Londrina, PR
-Equipe → Unicesumar
-Motor → VSCode
-Stack → JS · HTML · CSS · Java · C
-Foco → Evolução constante
+<p align="left">
+Sou um estudante de programação e designer gráfico, buscando evoluir constantemente e transformar conhecimento em prática.
+Atualmente gosto de misturar programação com aquilo que me inspira — arte, estética e identidade. Atualmente estudo na Unicesumar - Londrina/PR e utilizo o VSCode como principal ferramenta.
+Sigo evoluindo e aplicando conhecimento constantemente.
 
-Estudante de programação e designer gráfico.
-Unindo código com estética, identidade e arte.
-Sempre em movimento. Apenas faço aquilo que eu gosto.
+Seja bem-vindo ao meu GitHub.
+</p>
+
 </td>
 
-<td width="40%" align="center" style="border: none;">
-  <img src="cd.gif" width="300"/>
+<td width="40%" align="center">
+
+<img src="cd.gif" width="230"/>
+
 </td>
+
 
 </tr>
 </table>
