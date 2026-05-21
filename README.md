@@ -123,11 +123,20 @@ M A I S &nbsp; T O C A D A S — M I C H A E L &nbsp; J A C K S O N
 </tr>
 </table>
 
-
+<div align="center">
+<img src="https://img.shields.io/badge/Spotify-white?style=flat&logo=spotify&logoColor=black">
+<img src="https://img.shields.io/badge/Spotify-black?style=flat&logo=spotify&logoColor=white">
+</div>
 
 <div align="center">
 
 *"I'm starting with the man in the mirror."*
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=3500&pause=1200&color=F0EDE6&center=true&vCenter=true&width=700&lines=MICHAEL+JACKSON" />
+</div>
+<p align="center">
+  <sub><sup>T H E &nbsp; K I N G &nbsp; O F  &nbsp; P O P &nbsp;</sup></sub>
+</p>
 
 <td width="40%" align="center" style="border: none;">
   <img src="mb2.jpg" width="800"/>
