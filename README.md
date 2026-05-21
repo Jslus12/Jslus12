@@ -40,13 +40,10 @@
 
 <p align="left">
 
-```
 Sou um estudante de programação e designer gráfico, buscando evoluir constantemente e transformar conhecimento em prática.
 Atualmente gosto de misturar programação com aquilo que me inspira — arte, estética e identidade. Atualmente estudo na Unicesumar - Londrina/PR e utilizo o VSCode como principal ferramenta.
 Sigo evoluindo e aplicando conhecimento constantemente.
-
 Seja bem-vindo ao meu GitHub.
-```
 </p>
 
 </td>
@@ -74,7 +71,7 @@ Seja bem-vindo ao meu GitHub.
 
 
 
-<div align="center">
+<div align="left">
 
 <sub>
 M A I S &nbsp; T O C A D A S — M I C H A E L &nbsp; J A C K S O N
