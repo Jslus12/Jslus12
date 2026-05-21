@@ -71,7 +71,7 @@ Seja bem-vindo ao meu GitHub.
 
 
 
-<div align="left">
+<div align="center">
 
 <sub>
 M A I S &nbsp; T O C A D A S — M I C H A E L &nbsp; J A C K S O N
