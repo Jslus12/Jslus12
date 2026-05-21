@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Mb.jpg" width="700"/>
+  <img src="Mb.jpg" width="800"/>
 </p>
 
 <div align="center">
@@ -26,11 +26,7 @@
 ![C++](https://img.shields.io/badge/C++-555555?style=flat-square&logoColor=dddddd&logo=cplusplus)
 ![Design](https://img.shields.io/badge/Design-eeeeee?style=flat-square&logoColor=111111&logo=figma)
 
-
-
 </div>
-
-
 
 <h3 align="center"><sub> 𝐒 𝐎 𝐁 𝐑 𝐄 &nbsp; 𝐌 𝐈 𝐌</sub></h3>
 <table align="center">
@@ -133,6 +129,10 @@ M A I S &nbsp; T O C A D A S — M I C H A E L &nbsp; J A C K S O N
 
 *"I'm starting with the man in the mirror."*
 
-`INVINCIBLE · SCUDERIA DEV · LONDRINA`
+<td width="40%" align="center" style="border: none;">
+  <img src="mb2.jpg" width="800"/>
+</td>
+
+`INVINCIBLE · DEV JOÃO · LONDRINA`
 
 </div>
