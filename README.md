@@ -77,10 +77,10 @@ M A I S &nbsp; T O C A D A S — M I C H A E L &nbsp; J A C K S O N
 
 </div>
 
-<table align="center" style="border: none;">
+<table align="center">
 <tr style="border: none;">
 
-<td width="60%" style="border: none;">
+<td width="60%">
 
 ```
 — FREQUÊNCIAS ———————————————————————————————————————————————
@@ -114,7 +114,7 @@ M A I S &nbsp; T O C A D A S — M I C H A E L &nbsp; J A C K S O N
 
 </td>
 
-<td width="40%" align="center" style="border: none;">
+<td width="40%" align="center">
   <img src="Spotify.jpg" width="350"/>
 </td>
 
