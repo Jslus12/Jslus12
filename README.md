@@ -40,41 +40,47 @@
 
 <h3 align="center"><sub> 𝐒 𝐎 𝐁 𝐑 𝐄 &nbsp; 𝐌 𝐈 𝐌</sub></h3>
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<table align="center" style="border: none;">
+<tr style="border: none;">
+<td width="60%" style="border: none;">
 
-<div style="width: 400px; text-align: left;">
+</td>
 
-</div>
-
-<div align="center">
+<td width="40%" align="center" style="border: none;">
   <img src="cd.gif" width="300"/>
-</div>
+</td>
 
-</div>
+</tr>
+</table>
+
 
 ---
 
 <div align="center">
 
-<sub><sup>M A I S &nbsp; T O C A D A S — M I C H A E L &nbsp; J A C K S O N</sup></sub>
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=600&lines=Álbum+Invincible" />
-
-</div>
+<sub>
+M A I S &nbsp; T O C A D A S — M I C H A E L &nbsp; J A C K S O N
+</sub>
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-
-<div style="width: 500px; text-align: left;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=400&lines=Álbum+Invincible" />
 
 </div>
 
-<div align="center">
+<table align="center" style="border: none;">
+<tr style="border: none;">
+
+<td width="60%" style="border: none;">
+
+</td>
+
+<td width="40%" align="center" style="border: none;">
   <img src="Spotify.jpg" width="350"/>
-</div>
+</td>
 
-</div>
+</tr>
+</table>
 
 ---
 
