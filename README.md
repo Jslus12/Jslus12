@@ -36,7 +36,7 @@
 
 </div>
 
----
+
 
 <h3 align="center"><sub> 𝐒 𝐎 𝐁 𝐑 𝐄 &nbsp; 𝐌 𝐈 𝐌</sub></h3>
 
@@ -54,7 +54,6 @@
 </table>
 
 
----
 
 <div align="center">
 
@@ -82,7 +81,7 @@ M A I S &nbsp; T O C A D A S — M I C H A E L &nbsp; J A C K S O N
 </tr>
 </table>
 
----
+
 
 <div align="center">
 
