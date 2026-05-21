@@ -26,13 +26,7 @@
 ![C++](https://img.shields.io/badge/C++-555555?style=flat-square&logoColor=dddddd&logo=cplusplus)
 ![Design](https://img.shields.io/badge/Design-eeeeee?style=flat-square&logoColor=111111&logo=figma)
 
-![Git](https://img.shields.io/badge/Git-eeeeee?style=flat-square&logoColor=111111&logo=git)
-![Figma](https://img.shields.io/badge/Figma-555555?style=flat-square&logoColor=dddddd&logo=figma)
-![React](https://img.shields.io/badge/React-444444?style=flat-square&logoColor=cccccc&logo=react)
-![Node](https://img.shields.io/badge/Node-333333?style=flat-square&logoColor=bbbbbb&logo=nodedotjs)
-![SQL](https://img.shields.io/badge/SQL-262626?style=flat-square&logoColor=999999&logo=mysql)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logoColor=777777&logo=linux)
-![Shell](https://img.shields.io/badge/Shell-111111?style=flat-square&logoColor=555555&logo=gnubash)
+
 
 </div>
 
@@ -63,6 +57,17 @@ Sempre em movimento. Apenas faço aquilo que eu gosto.
 </tr>
 </table>
 
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-eeeeee?style=flat-square&logoColor=111111&logo=git)
+![Figma](https://img.shields.io/badge/Figma-555555?style=flat-square&logoColor=dddddd&logo=figma)
+![React](https://img.shields.io/badge/React-444444?style=flat-square&logoColor=cccccc&logo=react)
+![Node](https://img.shields.io/badge/Node-333333?style=flat-square&logoColor=bbbbbb&logo=nodedotjs)
+![SQL](https://img.shields.io/badge/SQL-262626?style=flat-square&logoColor=999999&logo=mysql)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logoColor=777777&logo=linux)
+![Shell](https://img.shields.io/badge/Shell-111111?style=flat-square&logoColor=555555&logo=gnubash)
+</div>
+
 
 
 <div align="center">
@@ -77,10 +82,10 @@ M A I S &nbsp; T O C A D A S — M I C H A E L &nbsp; J A C K S O N
 
 </div>
 
-<table align="center">
+<table align="center" style="border: none;">
 <tr style="border: none;">
 
-<td width="60%">
+<td width="60%" style="border: none;">
 
 ```
 — FREQUÊNCIAS ———————————————————————————————————————————————
@@ -114,7 +119,7 @@ M A I S &nbsp; T O C A D A S — M I C H A E L &nbsp; J A C K S O N
 
 </td>
 
-<td width="40%" align="center">
+<td width="40%" align="center" style="border: none;">
   <img src="Spotify.jpg" width="350"/>
 </td>
 
