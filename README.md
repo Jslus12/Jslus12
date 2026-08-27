@@ -3,9 +3,11 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=3500&pause=1200&color=F0EDE6&center=true&vCenter=true&width=700&lines=j+LUCAS" />
+<img src="https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&color=B30000&background=0D0D0D00&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+DUALITY;"/>
 </div>
 
+<!-- PEOPLE+%3D+SHIT;IOWA importante talvez -->
+<!--  Fonte passa e volta <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=3500&pause=1200&color=F0EDE6&center=true&vCenter=true&width=700&lines=j+LUCAS" /> -->
 <p align="center">
   <sub><sup>S C U D E R I A &nbsp; D E V &nbsp; — &nbsp; L O N D R I N A &nbsp; / &nbsp; P R</sup></sub>
 </p>
