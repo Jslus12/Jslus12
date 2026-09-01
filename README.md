@@ -151,17 +151,7 @@ Verses (Special Edition)" />
 <div align="center">
 
 *"Being here is a great duality..."*
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=3500&pause=1200&color=F0EDE6&center=true&vCenter=true&width=700&lines=MICHAEL+JACKSON" />
-</div>
-<p align="center">
-  <sub><sup>T H E &nbsp; K I N G &nbsp; O F  &nbsp; P O P &nbsp;</sup></sub>
-</p>
 
-<td width="40%" align="center" style="border: none;">
-  <img src="mb2.jpg" width="800"/>
-</td>
-
-`INVINCIBLE · DEV JOÃO · LONDRINA`
+`Scissors · DEV JOÃO · LONDRINA`
 
 </div>
